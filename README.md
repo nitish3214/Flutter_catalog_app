@@ -1,16 +1,3 @@
-# flutter_catalog
+# Flutter catalog App
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+This Flutter Catalog App is a mobile application built using the Flutter framework that showcases various Flutter widgets, components, and features. It serves as a reference and a source of inspiration for Flutter developers, providing a comprehensive catalog of UI elements and code examples.This app is built using flutter.This app has a beautiful UI(made using velocity-x)with lots of functionality like login page,add to cart,buy items and remove items.
